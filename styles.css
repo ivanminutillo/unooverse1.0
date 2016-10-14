@@ -6,10 +6,10 @@ body {
 
 .wrapper {
   margin-top: 20px;
-  .poetry {
-    font-size: 12px;
-    line-height: 18px;
-  }
+}
+.wrapper .poetry {
+  font-size: 12px;
+  line-height: 18px;
 }
 .container {
   width: 320px;

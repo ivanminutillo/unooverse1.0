@@ -1,0 +1,25 @@
+body {
+  background: #FFFDF8;
+}
+
+.container {
+  width: 320px;
+  margin: 0 auto;
+  margin-top: 150px;
+  font-family: 'Permanent Marker', cursive;
+  color: #332
+}
+
+.poetry {
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: 1px;
+}
+
+.poetry b {
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-size: 50px;
+  color: #732C7B;
+}

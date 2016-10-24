@@ -70,7 +70,7 @@ ul li span {
   line-height: 20px;
 }
 .container {
-  width: 320px;
+  width: 430px;
   margin: 0 auto;
   margin-top: 150px;
   font-family: 'Permanent Marker', cursive;
@@ -81,6 +81,7 @@ ul li span {
   font-size: 16px;
   line-height: 25px;
   letter-spacing: 1px;
+  margin-bottom: 40px; 
 }
 
 .poetry .separator {

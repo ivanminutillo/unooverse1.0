@@ -81,7 +81,7 @@ ul li span {
   font-size: 16px;
   line-height: 25px;
   letter-spacing: 1px;
-  margin-bottom: 40px; 
+  margin-bottom: 40px;
 }
 
 .poetry .separator {
@@ -94,4 +94,16 @@ ul li span {
   margin-bottom: 20px;
   font-size: 50px;
   color: #732C7B;
+}
+
+.white {
+  background-color: white;
+}
+.wow {
+  color: #3f4144;
+  position: absolute;
+  text-align: center;
+  left: 50%;
+  top: 50%;
+  letter-spacing: 1px;
 }

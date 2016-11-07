@@ -107,3 +107,11 @@ ul li span {
   top: 50%;
   letter-spacing: 1px;
 }
+
+.header_facing {
+  margin-left: 40px;
+  margin-bottom: 80px;
+}
+.facingfear_wrapper {
+  margin-bottom: 40px;
+}
